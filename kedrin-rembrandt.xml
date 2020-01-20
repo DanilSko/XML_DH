@@ -165,6 +165,9 @@
           <personGrp xml:id="golosa" sex="UNKNOWN">
             <name>Голоса</name>
           </personGrp>
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#rembrandt #saskiya"/>
+          <listRelation>
         </listPerson>
       </particDesc>
       <textClass>
